@@ -1,1 +1,10 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    margin-top: -150px;
+    padding: 0;
+    background: rgb(41, 40, 51);
+}
